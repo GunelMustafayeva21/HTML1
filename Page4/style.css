@@ -1,0 +1,40 @@
+.center {
+    
+    padding-left: 100px;
+    padding-right: 200px;
+    }
+
+.center pre{
+background-color:rgb(177, 233, 214) ;
+font-size:50px;
+}
+.h1{
+    color: red;
+}
+.h2{
+    color: darkgreen;
+}
+ul{
+    
+     
+        font-size: 50px;
+     
+    
+}
+p{
+    text-align: center;
+}
+.container1 {
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  ul.container2 {
+    margin: 0 7.0em;
+    text-align: left;
+  }
+  ul.container3 {
+    margin: 0 2.0em;
+    text-align: left;
+  }

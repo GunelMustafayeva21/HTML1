@@ -1,0 +1,19 @@
+.banner{
+    background-image: url(Eiffel-Tower2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    
+    
+    
+}
+.banner h1, pre{
+   size: 300px;
+   color:bisque;
+}
+
+pre{
+    font-size: x-large;
+}
+
